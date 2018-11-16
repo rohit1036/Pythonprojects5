@@ -1,4 +1,1 @@
-addition
-subtraction
-multiplication
-division
+check
